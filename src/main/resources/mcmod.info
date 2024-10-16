@@ -1,0 +1,16 @@
+[
+{
+  "modid": "myauth",
+  "name": "MyAuth",
+  "description": "Minecraft Forge Mod (1.8.9) for logging into Minecraft accounts using a Session ID.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["neppixel"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
