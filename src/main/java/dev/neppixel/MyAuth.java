@@ -31,7 +31,7 @@ public class MyAuth {
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event) {
         MinecraftForge.EVENT_BUS.register(this);
-        Display.setTitle("MyAuth " + VERSION);
+//        Display.setTitle("MyAuth " + VERSION);
     }
 
     @SubscribeEvent
